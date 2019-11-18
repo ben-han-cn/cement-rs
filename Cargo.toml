@@ -1,0 +1,10 @@
+[workspace]
+
+members = [ 
+  "failure_ext",
+  "rbtree",
+  "metrics",
+  "grpc/grpcio-client",
+  "grpc/build_helpers",
+  "grpc/grpc_helpers",
+]
